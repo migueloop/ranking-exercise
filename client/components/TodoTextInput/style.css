@@ -1,0 +1,22 @@
+
+.new,
+.edit {
+  position: relative;
+  margin: 0 0 0 50px;
+  width: 80%;
+  font-size: 1em;
+  font-family: 'Lato';
+  font-weight: inherit;
+  line-height: 1em;
+  border: 0px;
+  outline: none;
+  color: inherit;
+  padding: 6px;
+  box-sizing: border-box;
+  font-smoothing: antialiased;
+  border-left: 1px solid #FFBEBF;
+}
+
+.new {
+  padding: 16px 16px 16px 60px;
+}
