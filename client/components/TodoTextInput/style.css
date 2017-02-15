@@ -11,7 +11,7 @@
   border: 0px;
   outline: none;
   color: inherit;
-  padding: 6px;
+  padding: 14px !important;
   box-sizing: border-box;
   font-smoothing: antialiased;
   border-left: 1px solid #FFBEBF;
