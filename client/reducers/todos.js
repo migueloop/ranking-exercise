@@ -2,7 +2,7 @@
 import { handleActions } from 'redux-actions'
 
 const initialState = [{
-  text: 'Use Redux',
+  text: 'Walk the dog',
   completed: false,
   id: 0
 }]
