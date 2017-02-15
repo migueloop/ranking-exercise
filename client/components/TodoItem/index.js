@@ -13,7 +13,7 @@ class TodoItem extends Component {
   }
 
   handleDoubleClick() {
-    this.setState({ editing: true })
+    //this.setState({ editing: true })
   }
 
   handleSave(id, text) {
